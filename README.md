@@ -1,4 +1,6 @@
-# mongodb-docker-with-ssl
+# Mongodb-Docker-Container-with-ssl
+
+##Steps
 
 Create ca.pem and mongodb.pem files from the below repo and place these two files in 'ssl' folder
 
