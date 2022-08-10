@@ -2,6 +2,8 @@
 
 ## Steps
 
+>The files which are present in 'ssl' folder are empty name files
+
 Create
 
 * ca.pem
