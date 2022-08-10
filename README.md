@@ -2,7 +2,12 @@
 
 ## Steps
 
-Create ca.pem and mongodb.pem files from the below repo and place these two files in 'ssl' folder
+Create
+
+* ca.pem
+* mongodb.pem 
+
+files from the below repo and place those two files in 'ssl' folder
 
 (for this step go to this [repo](https://github.com/vijay2181/mongodb-pem-files))
 
